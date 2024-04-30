@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src=""/>
+  <img src="https://github.com/melanny0822/melanny0822/assets/101124668/30592a4f-b87c-427f-8786-aeaec736874c"
+"/>
 </h1>
 
 
@@ -7,9 +8,9 @@
 <p>
 🎓 TÉCNICO EN SISTEMAS Y TECNÓLOGO EN SISTEMAS.
 
-🔭 Hoy en día estoy en busca de trabajo en mi area, como desarrollador Frontend o Backend.
+🔭 Hoy en día estoy en busca de trabajo en mi area, como desarrolladora Frontend o Backend.
 
-🌱 Actualmente me encuentro aprendiendo el Framework de Springboot.
+🌱 Actualmente sigo perfeccionando mi aprendizaje en React Native y Firebase.
 
 🧑‍💻 Actualmentoe estoy desarrollando diferentes proyectos en React Native, como un Coffee Shop.
 </p>
@@ -26,7 +27,7 @@
       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     </td>
     <td>
-      <h2>💻 Fronted</h2>
+      <h2>💻 Frontend</h2>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -37,7 +38,6 @@
     <td>
       <h2>🪄 Styles</h2>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     </td>
@@ -56,7 +56,6 @@
       <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
       <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
     </td>
   </tr>
 </table>
